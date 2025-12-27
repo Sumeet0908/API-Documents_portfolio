@@ -8,8 +8,9 @@ The repository reflects a progressive learning approach, starting with basic
 documentation and gradually applying stricter technical writing standards.
 
 ## Tools Used
+- API Reference: JSONPlaceholder
 - Postman for API testing
-- Markdown (.md) for documentation
+- Markdown (.md) using VS Code for documentation
 - Git and GitHub for version control and portfolio sharing
 
 ## API Source
@@ -17,7 +18,7 @@ All APIs documented in this repository are public dummy REST APIs used only for
 learning and practice purposes.
 
 Primary source:
-- JSONPlaceholder — https://jsonplaceholder.typicode.com
+- [JSONPlaceholder — https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/users).
 
 ## APIs Documented So Far
 
@@ -31,6 +32,7 @@ Primary source:
 
 ### Update APIs
 - PUT /users/{id} — Update existing user details
+- PUT /users/{id} — Update existing user details (with error handling).
 
 > Note: Some APIs were documented earlier during initial learning stages and may
 > follow simpler documentation patterns. Newer documentation applies improved,
@@ -44,14 +46,13 @@ Primary source:
 - Documentation quality is improved incrementally with practice
 
 ## What Was Practiced Today
-- GET /users — Read-only API documentation
-- POST /users — Create API with request body documentation
-- Cleaner descriptions without unverified assumptions
-- Better use of notes to explain learning scope and limitations
+- PUT /users/{id} — Update API documentation
+- Testing PUT request in Postman
+- Writing request body and success response
+- Adding realistic error handling scenarios
+- Maintaining consistent API references
 
 ## Upcoming Practice
-- PUT /users (Update APIs with stricter validation)
-- Error response handling and documentation
 - Request validation scenarios
 - Further refinement of existing API docs
 
