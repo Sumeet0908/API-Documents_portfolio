@@ -43,4 +43,4 @@ practice only:
 
 This repository is an active portfolio. Some documents were written
 earlier and follow simpler patterns than the newer ones. Earlier versions
-of every file are available in the commit history.
+of every file will available in the commit history.
