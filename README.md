@@ -41,6 +41,8 @@ practice only:
 
 ## About this repository
 
-This repository is an active portfolio. Some documents were written
-earlier and follow simpler patterns than the newer ones. Earlier versions
-of every file will available in the commit history.
+This repository is an active portfolio. Some documents were written earlier and follow simpler patterns than the newer ones. Earlier versions of every file are available in the commit history.
+
+## Related work
+
+- [Google Drive sample guide (DITA)](https://sumeet0908.github.io/technical-writing-portfolio/)
